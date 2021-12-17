@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rec2">
+        <file>img/create-file 100X100.png</file>
+        <file>img/Exit 50X50.png</file>
+        <file>img/Exit 100x100.jpg</file>
+        <file>img/Exit 100x100.png</file>
+        <file>img/Exit.png</file>
+    </qresource>
+</RCC>
